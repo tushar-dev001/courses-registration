@@ -1,0 +1,18 @@
+/* .cart-body{
+    background-color: green;
+} */
+
+.remaining-hour{
+    color: blue;
+    font-size: bold;
+    border-bottom: 1px solid gray;
+    padding-bottom: 8px;
+}
+
+.remaining-total-hour{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding-top: 18px;
+    padding-bottom: 8px;
+
+}
